@@ -1,0 +1,13 @@
+{
+  "name": "Advanced_Sprite",
+  "url": "https://github.com/sphis-Sinco/advanced_sprite/",
+  "license": "MIT",
+  "tags": ["utility"],
+  "description": "Advanced sprite classes",
+  "version": "0.1.0",
+  "releasenote": "AdvancedSprite",
+  "contributors": ["Sinco"],
+  "dependencies": {
+        "flixel": "6.0.0"
+  }
+}
